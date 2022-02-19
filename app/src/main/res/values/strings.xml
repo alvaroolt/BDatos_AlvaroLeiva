@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">BDatos_AlvaroLeiva</string>
+    <string name="name">Name</string>
+    <string name="race">Race</string>
+    <string name="age">Age</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search</string>
+    <string name="update">Update</string>
+    <string name="storedDog">Stored dog</string>
+    <string name="emptyData">There is empty data</string>
+    <string name="recoveredDog">Recovered dog</string>
+    <string name="dogNotFound">Dog not found</string>
+    <string name="enterId">Enter a id</string>
+    <string name="deletedDog">Deleted dog</string>
+    <string name="updatedDog">Updated dog</string>
+    <string name="dogDoesNotExist">The dog does not exist</string>
 </resources>

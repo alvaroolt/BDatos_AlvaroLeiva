@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BDatos_AlvaroLeiva</string>
+    <string name="name">Nombre</string>
+    <string name="race">Raza</string>
+    <string name="age">Edad</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Borrar</string>
+    <string name="search">Buscar</string>
+    <string name="update">Actualizar</string>
+    <string name="storedDog">Perro almacenado</string>
+    <string name="emptyData">Hay datos vacíos</string>
+    <string name="recoveredDog">Perro recuperado</string>
+    <string name="dogNotFound">Perro no encontrado</string>
+    <string name="enterId">Introduce un id</string>
+    <string name="deletedDog">Perro borrado</string>
+    <string name="updatedDog">Perro actualizado</string>
+    <string name="dogDoesNotExist">El perro no existe</string>
+</resources>
